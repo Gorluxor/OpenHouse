@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-  url: https://www.instagram.com/kaustofficial/
+    url: https://www.instagram.com/kaustofficial/
   - title: home
-  url: https://cemse.kaust.edu.sa/vcc
+    url: https://cemse.kaust.edu.sa/vcc
 
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
