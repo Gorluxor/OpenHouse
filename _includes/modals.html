@@ -21,7 +21,7 @@
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Client:
+              <li>Authors:
                 <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
@@ -31,11 +31,14 @@
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
+              <li>Institutions:
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
             </ul>
+            {% if post.link %}
+            <a href="{{ post.link }}" class="btn btn-default" target="_blank">Project Homepage Link <i class="fa fa-link"></i></a>
+            {% endif %}
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>
