@@ -4,6 +4,7 @@ modal-id: 1
 date: 2023-01-06
 img: 3DAvatarGAN.jpg
 alt: image-alt
+title: 3DAvatarGAN Bridging Domains for Personalized Editable Avatars
 project-date: January 2023
 client: Rameen Abdal<sup>13</sup>, Hsin-Ying Lee<sup>2</sup>, Peihao Zhu<sup>13</sup>, Menglei Chai<sup>2</sup>, Aliaksandr Siarohin<sup>2</sup> Peter Wonka<sup>1</sup>, Sergey Tulyakov<sup>2</sup>
 category: <sup>1</sup>KAUST, <sup>2</sup>Snap Inc., <sup>3</sup>Snap Inc. internship
