@@ -4,6 +4,8 @@ modal-id: 1
 date: 2023-01-06
 img: 3DAvatarGAN.jpg
 alt: image-alt
+short-title: 3DAvatarGAN
+short-description: 3D-GAN on stylized, artistic data and proposes an adaptation framework to do so. The framework involves distilling knowledge from a 2D generator to a pre-trained 3D generator, using ptimization-based methods, regularizations, and a deformation-based technique to achieve multiview consistency and high-quality texture.
 title: 3DAvatarGAN Bridging Domains for Personalized Editable Avatars
 project-date: January 2023
 client: Rameen Abdal<sup>13</sup>, Hsin-Ying Lee<sup>2</sup>, Peihao Zhu<sup>13</sup>, Menglei Chai<sup>2</sup>, Aliaksandr Siarohin<sup>2</sup> Peter Wonka<sup>1</sup>, Sergey Tulyakov<sup>2</sup>

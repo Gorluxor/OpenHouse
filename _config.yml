@@ -2,7 +2,7 @@
 title: VCC Open House 2023
 email: vccshowcase@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "The Open House is a great opportunity to see short presentations and demonstrations from recent research conducted in the Visual Computing Center. 2nd February 2023"
+description: "The Open House is a great opportunity to see short presentations and demonstrations from recent research conducted in the Visual Computing Center. 2nd March 2023"
 keywords: "VCC Showcase, KAUST, 2023"
 skills: "The Open House is a great opportunity to see short presentations and demonstrations from recent research conducted in the Visual Computing Center."
 meta_author: Aleksandar Cvejic
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Building 1, KVL Showcase
-  - line: Sun Jan 29, 3 pm - 5 pm AST
+  - line: Building 1, The Spine
+  - line: Thursday, March 2, 12 - 2 pm KSA time
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
