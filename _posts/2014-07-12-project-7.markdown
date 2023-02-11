@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2023-01-06
+img: falconfiz.jpg
+alt: image-alt
+short-title: FalconViz 
+title: FalconViz | Your World, Digitized.
+project-date: January 2023
+client: Abdelrahman Amr<sup>1</sup>, Ahmed Hassanat<sup>1</sup>
+category: <sup>1</sup>FalconViz
+description: Abstract - All members of the KAUST community are welcome to join and experience FalconViz's state-of-the-art and emerging technologies, supporting the digital transformation that the Kingdom is experiencing as part of Vision 2030. Visit our Website at www.falconviz.com and contact us at info@falconviz.com.
+---

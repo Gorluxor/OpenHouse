@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2023-01-06
+img: rerend.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+short-title: Re-Rend
+title: Re-Rend Real-time Rendering of NeRFs across Devices
+project-date: January 2023
+client: Sara Rojas<sup>1</sup>, Jesus Zarzar<sup>1</sup>, Juan Camilo Perez<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Abstract - We address the problem of rendering a trained NeRF in real-time on resource-constrained devices. Our method achieves real-time performance by transforming a NeRF into a representation that trivially runs on standard graphics pipelines.  Specifically, our method distills the NeRF by extracting the learned density into a mesh, and the learned color information into a set of matrices that factorize the scene’s light field.
 ---
