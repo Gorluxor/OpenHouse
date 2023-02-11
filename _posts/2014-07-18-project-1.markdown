@@ -4,12 +4,11 @@ modal-id: 1
 date: 2023-01-06
 img: 3DAvatarGAN.jpg
 alt: image-alt
-short-title: 3DAvatarGAN
-short-description: 3D-GAN on stylized, artistic data and proposes an adaptation framework to do so. The framework involves distilling knowledge from a 2D generator to a pre-trained 3D generator, using ptimization-based methods, regularizations, and a deformation-based technique to achieve multiview consistency and high-quality texture.
-title: 3DAvatarGAN Bridging Domains for Personalized Editable Avatars
+short-title: 3D GANs
+title: 3D GANs for Image Editing, Video Processing, and Animations
 project-date: January 2023
-client: Rameen Abdal<sup>13</sup>, Hsin-Ying Lee<sup>2</sup>, Peihao Zhu<sup>13</sup>, Menglei Chai<sup>2</sup>, Aliaksandr Siarohin<sup>2</sup> Peter Wonka<sup>1</sup>, Sergey Tulyakov<sup>2</sup>
-category: <sup>1</sup>KAUST, <sup>2</sup>Snap Inc., <sup>3</sup>Snap Inc. internship
-description: Abstract - Modern 3D-GANs synthesize geometry and texture by training on large-scale datasets with a consistent structure. Training such models on stylized, artistic data, with often unknown, highly variable geometry, and camera information has not yet been shown possible. Can we train a 3D GAN on such artistic data, while maintaining multiview consistency and texture quality? To this end, we propose an adaptation framework, where the source domain is a pre-trained 3D-GAN, while the target domain is a 2DGAN trained on artistic datasets. We then distill the knowledge from a 2D generator to the source 3D generator. To do that, we first propose an optimization-based method to align the distributions of camera parameters across domains. Second, we propose regularizations necessary to learn high-quality texture, while avoiding degenerate geometric solutions, such as flat shapes. Third, we show a deformation-based technique for modeling exaggerated geometry of artistic domains, enabling—as a byproduct— personalized geometric editing. Finally, we propose a novel inversion method for 3D-GANs linking the latent spaces of the source and the target domains. Our contributions—for the first time—allow for the generation, editing, and animation of personalized artistic 3D avatars on artistic datasets.
+client: Rameen Abdal<sup>1</sup>, Ivan Skorokhodov<sup>1</sup>, Anna Fruehstueck<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Abstract - 3D Generative Adversarial Networks (3D GANs) are cutting-edge deep learning technology that can generate 3D images and shapes from 2D images. They are particularly useful in creating 3D objects that are challenging or time-consuming to create using traditional methods. 3D GANs have applications in a wide range of fields, including computer graphics, video games, architecture, product design, and medical imaging. In this demo, we show the results of an efficiently trained 3D GAN with high-quality rendering and multi-view consistency. We then demonstrate applications of 3D GANs for creating and editing 3D avatars of a person to generate high-quality animations. We also show an extension of 3D GANs in video processing where we are able to change the attributes of a face in a video or render a video in novel views, for example, rendering a talking head in different poses.
 link: https://rameenabdal.github.io/3DAvatarGAN
 ---

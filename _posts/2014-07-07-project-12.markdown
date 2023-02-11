@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 12
+date: 2023-01-06
+img: circus.png
+alt: image-alt
+short-title: Atomistic modeling on the web
+title: Atomistic modeling on the web
+project-date: January 2023
+client: Ondrej Strnad<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Abstract - The demo will showcase the capabilities of the latest web graphics API (WebGPU) via atomistic molecular modeling.
+link: https://www.nanovis.org/MesoCraft.html
+---
