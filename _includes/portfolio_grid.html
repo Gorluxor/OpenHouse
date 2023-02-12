@@ -17,12 +17,18 @@
             </div>
           </div>
           {% if post.short-title %}
+            {% if post.number %}
+            <div>
+              <h4 style="display: inline-block;">{{post.short-title}}</h4> <img style="width: 30px; height: 30px; float: right;" src="img/numbers/{{ post.number }}" alt="{{ post.number-alt}}">
+            </div>  
+            {% else %}
             <h4>{{post.short-title}}</h4>
+            {% endif %}
           {% endif %}
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-          <!-- {% if post.short-description %}
+          {% if post.short-description %}
             <p>{{post.short-description}}</p>
-          {% endif %}           -->
+          {% endif %}          
         </a>
       </div>
       {% endfor %}

@@ -4,6 +4,8 @@ modal-id: 13
 date: 2023-01-06
 img: nanomatrix.png
 alt: image-alt
+number: numbers-43.png
+number-alt: 13 
 short-title: Nanomatrix
 title: Nanomatrix Scalable Construction of Crowded Biological Environments
 project-date: January 2023

@@ -4,6 +4,8 @@ modal-id: 6
 date: 2023-01-06
 img: Qiang_Fu_Fu.png
 alt: image-alt
+number: numbers-36.png
+number-alt: 6 
 short-title: Diffractive lensless imaging
 title: Diffractive lensless imaging with optimized Voronoi-Fresnel phase
 project-date: January 2023

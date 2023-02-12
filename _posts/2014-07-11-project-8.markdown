@@ -4,6 +4,8 @@ modal-id: 8
 date: 2023-01-06
 img: Juris_Grigs_Grigs.png
 alt: image-alt
+number: numbers-38.png
+number-alt: 8 
 short-title: Flow Visualization
 title: Observer-Relative Flow Visualization
 project-date: January 2023
