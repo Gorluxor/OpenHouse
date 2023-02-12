@@ -4,6 +4,8 @@ modal-id: 2
 date: 2023-01-06
 img: rerend.png
 alt: image-alt
+number: numbers-32.png
+number-alt: 2 
 short-title: Re-Rend
 title: Re-Rend Real-time Rendering of NeRFs across Devices
 project-date: January 2023

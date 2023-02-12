@@ -4,6 +4,8 @@ modal-id: 1
 date: 2023-01-06
 img: 3DGAN.png
 alt: image-alt
+number: numbers-31.png
+number-alt: 1 
 short-title: 3D GANs
 title: 3D GANs for Image Editing, Video Processing, and Animations
 project-date: January 2023

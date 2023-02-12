@@ -4,6 +4,8 @@ modal-id: 9
 date: 2023-01-06
 img: FedNL-1.png
 alt: image-alt
+number: numbers-39.png
+number-alt: 9 
 short-title: FedNL
 title: FedNL Practical Implementation [Ongoing project]
 project-date: January 2023
