@@ -6,7 +6,7 @@ img: Ondrej_Strnad_Strnad.PNG
 alt: image-alt
 number: numbers-42.png
 number-alt: 12 
-short-title: Atomistic modeling on the web
+short-title: Atomistic modeling
 title: Atomistic modeling on the web
 project-date: January 2023
 client: Ondrej Strnad<sup>1</sup>
