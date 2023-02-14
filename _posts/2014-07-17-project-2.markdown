@@ -6,8 +6,8 @@ img: rerend.png
 alt: image-alt
 number: numbers-32.png
 number-alt: 2 
-short-title: Re-Rend
-title: Re-Rend Real-time Rendering of NeRFs across Devices
+short-title: 'Re-Rend.mp4'
+title: 'Re-Rend.mp4'
 project-date: January 2023
 client: Sara Rojas<sup>1</sup>, Jesus Zarzar<sup>1</sup>, Juan Camilo Perez<sup>1</sup>
 category: <sup>1</sup>KAUST

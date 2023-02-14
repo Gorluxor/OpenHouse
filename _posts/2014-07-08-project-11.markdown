@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-41.png
 number-alt: 11 
 short-title: UrbanFlow
-title: UrbanFlow Designing Comfortable Outdoor Areas
+title: 'UrbanFlow: Designing Comfortable Outdoor Areas'
 project-date: January 2023
 client: Daoming Liu<sup>1</sup>
 category: <sup>1</sup>KAUST

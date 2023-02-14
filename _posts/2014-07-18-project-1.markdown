@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-31.png
 number-alt: 1 
 short-title: 3D GANs
-title: 3D GANs for Image Editing, Video Processing, and Animations
+title: '3D GANs for Image Editing, Video Processing, and Animations'
 project-date: January 2023
 client: Rameen Abdal<sup>1</sup>, Ivan Skorokhodov<sup>1</sup>, Anna Fruehstueck<sup>1</sup>
 category: <sup>1</sup>KAUST

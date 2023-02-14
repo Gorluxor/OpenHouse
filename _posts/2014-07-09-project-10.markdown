@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-40.png
 number-alt: 10 
 short-title: MetaISP
-title: MetaISP - One ISP to rule them all
+title: 'MetaISP - One ISP to rule them all'
 project-date: January 2023
 client: Matheus Souza
 category: <sup>1</sup>KAUST

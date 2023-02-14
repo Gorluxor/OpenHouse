@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-35.png
 number-alt: 5 
 short-title: Thya Technology
-title: Thya Technology Enabling AI for everyone
+title: 'Thya Technology: Enabling AI for everyone'
 project-date: January 2023
 client: Silvio Giancola<sup>1</sup>, Justine Braguy<sup>1</sup>
 category: <sup>1</sup>KAUST
