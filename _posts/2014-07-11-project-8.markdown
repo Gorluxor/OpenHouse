@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-38.png
 number-alt: 8 
 short-title: Flow Visualization
-title: Observer-Relative Flow Visualization
+title: 'Observer-Relative Flow Visualization'
 project-date: January 2023
 client: Juris Grigs<sup>1</sup>, Waad Alshehri<sup>1</sup>, Daniya Boges<sup>1</sup>
 category: <sup>1</sup>KAUST

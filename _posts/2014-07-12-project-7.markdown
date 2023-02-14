@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-37.png
 number-alt: 7 
 short-title: FalconViz 
-title: FalconViz | Your World, Digitized.
+title: 'FalconViz | Your World, Digitized.'
 project-date: January 2023
 client: Abdelrahman Amr<sup>1</sup>, Ahmed Hassanat<sup>1</sup>
 category: <sup>1</sup>FalconViz

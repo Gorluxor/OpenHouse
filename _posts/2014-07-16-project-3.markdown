@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-33.png
 number-alt: 3 
 short-title: ProxSkip
-title: Variance Reduced ProxSkip Algorithm, Theory and Application to Federated Learning
+title: 'Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning'
 project-date: Jul 2022
 client: Grigory Malinovsky<sup>1</sup>,Kai Yi<sup>1</sup>, Peter Richtárik <sup>1</sup
 category: <sup>1</sup>KAUST

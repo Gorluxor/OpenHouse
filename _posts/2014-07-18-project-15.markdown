@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 15
+date: 2023-01-06
+img: dawar.png
+alt: image-alt
+number: numbers-45.png
+number-alt: 15 
+short-title: 'Dr. KID: A Molecular Puzzle'
+title: 'Dr. KID: A Molecular Puzzle'
+project-date: January 2023
+client: Dawar Khan<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Dr. KID (Direct Remeshing for K-set Isometric Decomposition) is a puzzle-generation for a small set of nanostructures.  It decomposes the surface mesh into K set of identical segments (planar or curved polygons). A heuristic approach is adopted for creating identical female connectors and unique hinges for assembling and disassembling the puzzle segments. Dr. KID not only solves a geometric problem but also provides a real-world product for the scientific community.
+short-description: Dr. KID (Direct Remeshing for K-set Isometric Decomposition) is a puzzle-generation for a small set of nanostructures.
+---

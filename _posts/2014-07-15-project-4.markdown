@@ -7,7 +7,7 @@ alt: image-alt
 number: numbers-34.png
 number-alt: 4 
 short-title: ZoeDepth
-title: ZoeDepth Zero-shot Transfer by Combining Relative and Metric Depth
+title: 'ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth'
 project-date: January 2023
 client: Shariq Farooq Bhat <sup>1</sup>, Peter Wonka<sup>1</sup>
 category: <sup>1</sup>KAUST
