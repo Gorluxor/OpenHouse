@@ -7,9 +7,10 @@ alt: image-alt
 number: numbers-39.png
 number-alt: 9 
 short-title: FedNL
-title: FedNL Practical Implementation [Ongoing project]
+title: 'FedNL: Making Newton-Type Methods Applicable to Federated Learning'
 project-date: January 2023
-client: Konstantin Burlachenko<sup>1</sup> presenting for Mher Safaryan<sup>1</sup>, Rustem Islamov<sup>12</sup>, Xun Qian<sup>1</sup>, Peter Richtárik<sup>1</sup>
+client: Konstantin Burlachenko<sup>1</sup>, Mher Safaryan<sup>1</sup>, Rustem Islamov<sup>12</sup>, Xun Qian<sup>1</sup>, Peter Richtárik<sup>1</sup>
 category: <sup>1</sup>KAUST, <sup>2</sup>MIPT
-description: Abstract - FedNL Making Newton-Type Methods Applicable to Federated Learning (arXiv:2106.02969, ICML 2021) bring a family of Federated Newton Learn (FedNL) methods and is a significant step in making second-order methods applicable to Federated Learning(FL) and Distributed Optimization. This work is targeted to bring this algorithm close to practical application and makes a strong step toward practical applicability.
+description: FedNL Making Newton-Type Methods Applicable to Federated Learning (arXiv:2106.02969, ICML 2021) bring a family of Federated Newton Learn (FedNL) methods and is a significant step in making second-order methods applicable to Federated Learning(FL) and Distributed Optimization. This work is targeted to bring this algorithm close to practical application and makes a strong step toward practical applicability. 
+short-description: Making Newton-Type Methods Applicable to Federated Learning (arXiv:2106.02969, ICML 2021) bring a family of Federated Newton Learn (FedNL)
 ---

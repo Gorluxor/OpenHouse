@@ -11,5 +11,6 @@ title: Re-Rend Real-time Rendering of NeRFs across Devices
 project-date: January 2023
 client: Sara Rojas<sup>1</sup>, Jesus Zarzar<sup>1</sup>, Juan Camilo Perez<sup>1</sup>
 category: <sup>1</sup>KAUST
-description: Abstract - We address the problem of rendering a trained NeRF in real-time on resource-constrained devices. Our method achieves real-time performance by transforming a NeRF into a representation that trivially runs on standard graphics pipelines.  Specifically, our method distills the NeRF by extracting the learned density into a mesh, and the learned color information into a set of matrices that factorize the scene’s light field.
+description: We address the problem of rendering a trained NeRF in real-time on resource-constrained devices. Our method achieves real-time performance by transforming a NeRF into a representation that trivially runs on standard graphics pipelines.  Specifically, our method distills the NeRF by extracting the learned density into a mesh, and the learned color information into a set of matrices that factorize the scene’s light field.
+short-description: We address the problem of rendering a trained NeRF in real-time on resource-constrained devices
 ---

@@ -11,6 +11,7 @@ title: Thya Technology Enabling AI for everyone
 project-date: January 2023
 client: Silvio Giancola<sup>1</sup>, Justine Braguy<sup>1</sup>
 category: <sup>1</sup>KAUST
-description: Abstract - Thya Technology is a spin-off start-up from the Image and Video Understanding Lab (IVUL) of King Abdullah University of Science and Technology (KAUST, Saudi Arabia) and enables the creation and use of detection algorithms from A to Z. Thya Technology delivers AI-based computer vision as a service, and creates value for companies that need to process a large amount of images. Thya Technology’s mission is to enable AI for everyone. To do so, they provide online platforms that accelerate the deployment of AI, facilitating the generation and training of detection models, thus saving their users time and money.
+description: Thya Technology is a spin-off start-up from the Image and Video Understanding Lab (IVUL) of King Abdullah University of Science and Technology (KAUST, Saudi Arabia) and enables the creation and use of detection algorithms from A to Z. Thya Technology delivers AI-based computer vision as a service, and creates value for companies that need to process a large amount of images. Thya Technology’s mission is to enable AI for everyone. To do so, they provide online platforms that accelerate the deployment of AI, facilitating the generation and training of detection models, thus saving their users time and money.
+short-description: Thya Technology is a spin-off start-up from the Image and Video Understanding Lab (IVUL) 
 link: https://www.thya-technology.com/home
 ---

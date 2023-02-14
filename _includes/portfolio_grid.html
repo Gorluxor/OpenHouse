@@ -1,5 +1,5 @@
 <!-- Portfolio Grid Section -->
-<section id="portfolio">
+<section class="special" id="portfolio">
   <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -16,10 +16,12 @@
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          {% if post.short-title %}
+          {% if post.title %}
             {% if post.number %}
             <div>
-              <h4 style="display: inline-block;">{{post.short-title}}</h4> <img style="width: 30px; height: 30px; float: right;" src="img/numbers/{{ post.number }}" alt="{{ post.number-alt}}">
+              <h4 style="display: inline-block;">
+              <img style="width: 40px; height: 40px; float: left; margin-right: 10px;" src="img/numbers/number%20({{ post.modal-id }}).png" alt="{{ post.number-alt}}">
+              {{post.title}}</h4> 
             </div>  
             {% else %}
             <h4>{{post.short-title}}</h4>
@@ -27,7 +29,9 @@
           {% endif %}
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
           {% if post.short-description %}
-            <p>{{post.short-description}}</p>
+            <p>{{post.short-description}} [...]</p> 
+            <div style="color: #2c3e50;">[read more]</div>
+            <br>
           {% endif %}          
         </a>
       </div>
