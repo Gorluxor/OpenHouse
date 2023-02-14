@@ -15,10 +15,17 @@
           <h3>{{ site.footer.social }}</h3>
           <ul class="list-inline">
             {% for network in site.social %}
-            <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
-            </li>
+            {% if network.title == "link" %}
+              <li>
+                <a href="{{ network.url }}" class="btn-social btn-outline"><i
+                    class="fa-solid fa-link"></i></a>
+              </li>
+            {% else %}
+              <li>
+                <a href="{{ network.url }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+              </li>
+            {% endif %}
             {% endfor %}
           </ul>
         </div>
