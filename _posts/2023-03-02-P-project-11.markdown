@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 11
+date: 2023-01-06
+img: Ageeli_Amani_A.png
+alt: image-alt
+number: 11
+number-alt: 11 
+short-title: Interactive Visualization of L.S. Geological Models
+title: 'Interactive Visualization of Large-Scale Geological Models'
+project-date: January 2023
+client: Guangming Zang<sup>1</sup>, Amani Ageeli<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: 'The rapidly growing size and complexity of 3D geological models has increased the need for level-of-detail techniques and compact encodings to facilitate interactive visualization and data analysis. In this collaboration with Saudi Aramco, we employ advanced techniques, such as level-of-detail and display-aware rendering, out-of-core data processing, and cutting-edge GPU technologies, to handle datasets with up to one trillion data points. Additionally, we present a probabilistic framework to decouple all dimensions of multivariate joint range queries to query any subset of attributes efficiently. Since our framework does not limit query accuracy to a fixed spatial subdivision, queries are jointly evaluated at the finest data granularity, even when a multi-resolution strategy is used for visualization.'
+short-description: The rapidly growing size and complexity of 3D geological models has increased the need for level-of-detail techniques and compact encodings to facilitate.
+link: https://vccvisualization.org/
+---

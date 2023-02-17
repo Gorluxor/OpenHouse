@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 16
+date: 2023-01-06
+img: nanomatrix.png
+alt: image-alt
+number: 16
+number-alt: 16
+short-title: Nanomatrix
+title: 'Nanomatrix: Scalable Construction of Crowded Biological Environments'
+project-date: January 2023
+client: Ruwayda Alharbi<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Interactive construction and rendering of extremely large molecular scenes in atomistic detail.
+short-description: Interactive construction and rendering of extremely large molecular scenes in atomistic detail.
+---

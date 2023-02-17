@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2023-01-06
+img: shen.png
+alt: image-alt
+number: 6
+number-alt: 6 
+short-title: 'MoStGAN: Video Generation with Temporal Motion Styles'
+title: 'MoStGAN: Video Generation with Temporal Motion Styles'
+project-date: January 2023
+client: Xiaoqian Shen<sup>1</sup>, Mohamed Elhoseiny<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: 'Video generation remains a challenging task due to spatiotemporal complexity and the requirement of synthesizing diverse motions with temporal consistency. Previous works attempt to generate videos in arbitrary lengths either in an autoregressive manner or regarding time as a continuous signal. However, they struggle to synthesize detailed and diverse motions with temporal coherence and tend to generate repetitive scenes after a few time steps. In this work, we argue that a single time-agnostic latent vector of style-based generator is insufficient to model various and temporally-consistent motions. Hence, we introduce additional time-dependent motion styles to model diverse motion patterns. In addition, a Motion Style Attention modulation mechanism, dubbed as MoStAtt, is proposed to augment frames with vivid dynamics for each specific scale (i.e., layer), which assigns attention score for each motion style w.r.t deconvolution filter weights in the target synthesis layer and softly attends different motion styles for weight modulation. Experimental results show our model achieves state-of-the-art performance on four unconditional $256^2$ video synthesis benchmarks trained with only 3 frames per clip and produces better qualitative results with respect to dynamic motions.'
+short-description: 'Video generation remains a challenging task due to spatiotemporal complexity and the requirement of synthesizing diverse motions with temporal consistency'
+---

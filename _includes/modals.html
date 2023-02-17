@@ -19,18 +19,24 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
-            <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Authors:
+              
+			  <ul class="list-inline item-details">
+			  Presented by:
+			  <li>
                 <strong>{{ post.client }}</strong>
               </li>
+			  </ul>
               {% endif %}
+			  <!--
               {% if post.project-date %}
               <li>Date:
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
+			  -->
               {% if post.category %}
+			  <ul class="list-inline item-details">
               <li>Institutions:
                 <strong>{{ post.category }}</strong>
               </li>

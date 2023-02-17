@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 13
+date: 2023-01-06
+img: metaisp_sq.jpg
+alt: image-alt
+number: 13
+number-alt: 13 
+short-title: MetaISP
+title: 'MetaISP - One ISP to rule them all'
+project-date: January 2023
+client: Matheus Souza
+category: <sup>1</sup>KAUST
+description: This work proposes an efficient way to translate images from one smartphone camera to three different appearances, allowing the users to select different color aesthetics using the same device.
+short-description: This work proposes an efficient way to translate images from one smartphone camera to three different appearances
+---

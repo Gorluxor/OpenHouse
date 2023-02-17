@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 12
+date: 2023-01-06
+img: doa_sq.png
+alt: image-alt
+number: 12
+number-alt: 12 
+short-title: UrbanFlow
+title: 'UrbanFlow: Designing Comfortable Outdoor Areas'
+project-date: January 2023
+client: Daoming Liu<sup>1</sup>
+category: <sup>1</sup>KAUST
+description: Design decisions in urban planning have to be made with particular carefulness as the resulting constraints are binding for the whole architectural design that follows. In this context, investigating and optimizing the airflow in urban environments is critical to design comfortable outdoor areas as unwanted effects such as windy areas and the formation of heat pockets have to be avoided. Our UrbanFlow framework enables interactive architectural design allowing for decision making based on simulating urban flow. Compared to real-time fluid flow simulation, enabling interactive architecture design poses an even higher computational efficiency challenge as evaluating a design by simulation usually requires hundreds of time steps. This is addressed based on a highly efficient Eulerian fluid simulator in which we incorporate a unified porosity model which is devised to encode digital urban models containing objects such as buildings and trees. UrbanFlow is equipped with an optimization routine enabling the direct computation of design adaptations improving livability and comfort for given parameterized architectural designs. To ensure convergence of the optimization process, instead of the classical Navier–Stokes equations, the Reynolds-averaged Navier–Stokes equations are solved as this can be done on a relatively coarse grid and allows for the decoupling of the effects of turbulent eddies which are taken into account using a separate turbulence model. As we demonstrate on a real-world example taken from an ongoing architectural competition, this results in a fast convergence of the optimization process which computes a design adaptation avoiding heat pockets as well as uncomfortable windy areas. UrbanFlow exploits the power of the graphics processing unit running on a single desktop computer as it is widely available in most architectural and urban planning firms. We also provide a plugin which enable its use with the Rhinoceros 3D software widely used in computational design and architecture.
+short-description: Design decisions in urban planning have to be made with particular carefulness as the resulting constraints are binding for the whole architectural design that follows
+---

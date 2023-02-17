@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 10
+date: 2023-01-06
+img: spider-vr.png
+alt: image-alt
+number: 10
+number-alt: 10
+short-title: Evaluating Neural Radiance Fields for VR Anxiety Disorder Therapy
+title: 'Evaluating Neural Radiance Fields for VR Anxiety Disorder Therapy'
+project-date: January 2023
+client: Waad Alshehri<sup>1</sup> 
+category: <sup>1</sup>KAUST
+description: 'In this collaborative project, we use Neural Radiance Fields (Nerfs) - a novel image-based realistic rendering method - and virtual reality, to potentially improve the treatment of anxiety disorders. 
+Anxiety disorders are common and can greatly impact the daily lives of people. Traditional therapies such as cognitive behavioral therapy and exposure therapy have shown to be effective in reducing anxiety symptoms, but can be difficult to implement in real-world settings. This is where virtual reality and photorealistic rendering technology come in as a potential solution. By creating realistic virtual environments, patients can be exposed to their triggers in a controlled setting and trained to respond appropriately. The use of photorealistic rendering technology has been found to increase the sense of presence and immersion in virtual environments, potentially making the therapy more effective. This collaborative project aims to implement a software framework for VR anxiety disorder treatment and the evaluation of its effectiveness.'
+short-description: 'In this collaborative project, we use Neural Radiance Fields (Nerfs) - a novel image-based realistic rendering method - and virtual reality, to potentially improve the treatment of anxiety disorders'
+---
