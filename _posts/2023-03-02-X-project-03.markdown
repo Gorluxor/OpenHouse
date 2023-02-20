@@ -9,8 +9,8 @@ number-alt: 3
 short-title: Computational Design of Deployable Grid Shell Structures
 title: 'Computational Design of Deployable Grid Shell Structures'
 project-date: January 2023
-client: NA<sup>1</sup>
-category: <sup>1</sup>KAUST
+client: 'Jana Hammad<sup>1</sup>, Mashael Al Dakheel<sup>1</sup>, Jouri Ashour<sup>1</sup>, Hala Kajak<sup>1</sup>, Maram Dohaithem<sup>1</sup>, Mohamed Shalaby<sup>2</sup>, Florian Rist<sup>2</sup>'
+category: '<sup>1</sup>Effat University, <sup>2</sup>KAUST'
 description: 'Architecture is as much a science as an art. Science gives freedom to design. It enables performant structures, fluid spaces, more expressive forms, and sustainable and ultimately more beautiful buildings. This link is especially visible in high-performance lightweight constructions like grid shells. It takes design skills and intuition as well as rational computational finding and simulation tools to successfully design these elegant, light structures. 
 In a workshop with students of architecture, organized in collaboration with KAUST Academy, we explored new deployable grid shell structures. The results of this workshop are presented by the participants.'
 short-description: 'Architecture is as much a science as an art. Science gives freedom to design. It enables performant structures, fluid spaces, more expressive forms, and sustainable and ultimately more beautiful buildings'
