@@ -2,15 +2,16 @@
 layout: default
 modal-id: 13
 date: 2023-01-06
-img: metaisp_sq.jpg
+img: Qiang_Fu_Fu.png
 alt: image-alt
 number: 13
-number-alt: 13 
-short-title: MetaISP
-title: 'MetaISP - One ISP to rule them all'
+number-alt: 13
+short-title: Diffractive lensless imaging
+title: Diffractive lensless imaging with optimized Voronoi-Fresnel phase
 project-date: January 2023
-client: Matheus Souza
+client: Qiang Fu <sup>1</sup>
 category: <sup>1</sup>KAUST
-description: This work proposes an efficient way to translate images from one smartphone camera to three different appearances, allowing the users to select different color aesthetics using the same device.
-short-description: This work proposes an efficient way to translate images from one smartphone camera to three different appearances
+description: Optical imaging devices suffer from long-standing problems of bulky volume and high cost. We demonstrate a diffractive lensless camera with spatially-coded Voronoi-Fresnel phase for high quality imaging applications. The resulting device offers miniaturized form factor, while preserving rich optical information for various portable configurations.
+short-description: Optical imaging devices suffer from long-standing problems of bulky volume and high cost
+link: https://vccimaging.org/Publications/Fu2022Diffractive/
 ---

@@ -2,16 +2,16 @@
 layout: default
 modal-id: 14
 date: 2023-01-06
-img: Qiang_Fu_Fu.png
+img: spider-vr.png
 alt: image-alt
 number: 14
 number-alt: 14
-short-title: Diffractive lensless imaging
-title: Diffractive lensless imaging with optimized Voronoi-Fresnel phase
+short-title: Evaluating Neural Radiance Fields for VR Anxiety Disorder Therapy
+title: 'Evaluating Neural Radiance Fields for VR Anxiety Disorder Therapy'
 project-date: January 2023
-client: Qiang Fu <sup>1</sup>
+client: Waad Alshehri<sup>1</sup> 
 category: <sup>1</sup>KAUST
-description: Optical imaging devices suffer from long-standing problems of bulky volume and high cost. We demonstrate a diffractive lensless camera with spatially-coded Voronoi-Fresnel phase for high quality imaging applications. The resulting device offers miniaturized form factor, while preserving rich optical information for various portable configurations.
-short-description: Optical imaging devices suffer from long-standing problems of bulky volume and high cost
-link: https://vccimaging.org/Publications/Fu2022Diffractive/
+description: 'In this collaborative project, we use Neural Radiance Fields (Nerfs) - a novel image-based realistic rendering method - and virtual reality, to potentially improve the treatment of anxiety disorders. 
+Anxiety disorders are common and can greatly impact the daily lives of people. Traditional therapies such as cognitive behavioral therapy and exposure therapy have shown to be effective in reducing anxiety symptoms, but can be difficult to implement in real-world settings. This is where virtual reality and photorealistic rendering technology come in as a potential solution. By creating realistic virtual environments, patients can be exposed to their triggers in a controlled setting and trained to respond appropriately. The use of photorealistic rendering technology has been found to increase the sense of presence and immersion in virtual environments, potentially making the therapy more effective. This collaborative project aims to implement a software framework for VR anxiety disorder treatment and the evaluation of its effectiveness.'
+short-description: 'In this collaborative project, we use Neural Radiance Fields (Nerfs) - a novel image-based realistic rendering method - and virtual reality, to potentially improve the treatment of anxiety disorders'
 ---
